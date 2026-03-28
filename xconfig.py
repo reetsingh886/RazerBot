@@ -12,10 +12,10 @@ class Config(object):
     LOGGER = True
     API_ID = 123456  # integer value, dont use ""
     API_HASH = "API_HASH"
-    TOKEN = "BOT_TOKEN"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = "8108576991:AAH0yDvbbhlDbcWU0DcXrjq1ZLWJF_9Anlg"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     BOT_USERNAME = "BOT_USERNAME"
     BOT_NAME = ""
-    BOT_ID = ""
+    BOT_ID = "8108576991"
     OWNER_ID = Your_Id  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "YourUsername"
     START_IMG = "https://graph.org/file/644fddccf30ac191fc895.jpg"
