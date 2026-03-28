@@ -12,18 +12,18 @@ class Config(object):
     LOGGER = True
     API_ID = 123456  # integer value, dont use ""
     API_HASH = "API_HASH"
-    TOKEN = "BOT_TOKEN"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = "8108576991:AAH0yDvbbhlDbcWU0DcXrjq1ZLWJF_9Anlg"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     BOT_USERNAME = "BOT_USERNAME"
     BOT_NAME = ""
     BOT_ID = ""
     OWNER_ID = Your_Id  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "YourUsername"
+    OWNER_USERNAME = "@iamthakur007"
     START_IMG = "https://graph.org/file/644fddccf30ac191fc895.jpg"
     ALIVE_IMG = "https://graph.org/file/36c17c0f22aeea9c99895.jpg"
-    UPDATE_CHANNEL = "<channel-username>" # Your own channel for updates, do not add the @
-    SUPPORT_CHAT = "<support-chat-username>"  # Your own group for support, do not add the @
-    JOIN_LOGGER = (-10012345678)  # A new channel ID To log who started the bot. Starting with "-100", Put inside braces
-    EVENT_LOGS = (-10012345678)  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
+    UPDATE_CHANNEL = "BOTxBOOSTER" # Your own channel for updates, do not add the @
+    SUPPORT_CHAT = "BOTxBOOSTER"  # Your own group for support, do not add the @
+    JOIN_LOGGER = (-1003839870589)  # A new channel ID To log who started the bot. Starting with "-100", Put inside braces
+    EVENT_LOGS = (-1003839870589)  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     # RECOMMENDED
     MONGO_DB_URI = "" 
